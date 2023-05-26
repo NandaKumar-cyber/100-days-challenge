@@ -16,3 +16,9 @@ Output : https://web-platform-jbmmnc.stackblitz.io
 Code Edit : https://stackblitz.com/edit/web-platform-fzx1ow?file=index.html,style.css
 
 Output : https://web-platform-fzx1ow.stackblitz.io
+
+4.Button Animations
+
+code Edit : https://stackblitz.com/edit/web-platform-saimcc?file=index.html,style.css
+
+Output : https://web-platform-saimcc.stackblitz.io
